@@ -18,6 +18,7 @@ def monopoly_with_third_tier
       :three => {},
       :four => {}
       }
+      :names => {}
     }
   }
 end
